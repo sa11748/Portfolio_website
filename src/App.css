@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: "Roboto", sans-serif;
   -moz-osx-font-smoothing: "Roboto", sans-serif;
   font-style: normal;
+  background: linear-gradient(135deg, #3f51b5, #2196f3);
+  color: #ffffff; /* Ensure text is readable on dark background */
 }
 h1,
 h2,
@@ -194,7 +196,7 @@ h2 {
   align-items: center;
   justify-content: space-between;
   gap: 32px;
-  background-color: var(--bg-shade);
+  background-color: linear-gradient(135deg , #1e3c72, #2a5298);
 }
 .hero--section--content-box {
   display: flex;
