@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: "Roboto", sans-serif;
   -moz-osx-font-smoothing: "Roboto", sans-serif;
   font-style: normal;
-  background: linear-gradient(135deg, #3f51b5, #2196f3);
+  background: white;
   color: #ffffff; /* Ensure text is readable on dark background */
 }
 h1,
